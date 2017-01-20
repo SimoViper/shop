@@ -1,0 +1,9 @@
+            _
+         <`--'\>______
+         /. .  `'     \
+        (`')  ,        @
+         `-._,        /
+            )-)_/--( >
+           ''''  ''''
+
+ ${application.title}  ${application.version}

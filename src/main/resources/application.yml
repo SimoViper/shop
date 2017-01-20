@@ -1,0 +1,8 @@
+server:
+  port: 9096
+
+
+application:
+  title: Puzzled Pig Shop
+  version: v1.2.0
+
