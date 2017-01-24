@@ -6,3 +6,6 @@ application:
   title: Puzzled Pig Shop
   version: v1.2.0
 
+rest-services:
+  movies:
+    movie-details-endpoint: http://172.25.0.3:8095/movies/movie-details/
