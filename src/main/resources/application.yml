@@ -1,5 +1,5 @@
 server:
-  port: 9096
+  port: 9097
 
 
 application:
@@ -8,4 +8,4 @@ application:
 
 rest-services:
   movies:
-    movie-details-endpoint: http://172.25.0.3:8095/movies/movie-details/
+    movie-details-endpoint: http://movies:8095/movies/movie-details/
